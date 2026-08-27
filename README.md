@@ -1,2 +1,5 @@
-# HR-Employee-Satisfaction-Analysis
-Data analysis project exploring employee satisfaction using Excel, survey data, and statistical analysis to identify key workplace trends and insights.
+This project presents an Employee Satisfaction Analysis conducted using Microsoft Excel. The analysis examines employee responses across key workplace factors, including work environment, relationships with superiors and colleagues, motivation, remuneration, perks, job security, grievance handling, performance appraisal, training and development, management style, and quality awareness.
+
+The project also analyzes employee demographic information such as gender, age, marital status, years of service, and educational qualification. Pivot Tables, percentage analysis, charts, and data visualization techniques were used to identify employee satisfaction patterns and transform survey data into meaningful business insights.
+
+The project demonstrates practical skills in data analysis, Excel functions, Pivot Tables, data visualization, statistical and percentage analysis, survey analysis, and business reporting. The insights generated can support management in identifying areas for improvement and making data-driven decisions related to employee engagement and workplace satisfaction.
